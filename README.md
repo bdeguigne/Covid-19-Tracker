@@ -1,6 +1,11 @@
 # Covid-19 Tracker
 School project made with ReactJS and the covid-19 free API.
 
+## Live Demo
+
+### https://bdeguigne.github.io/Covid-19-Tracker/
+
+
 ## Start the project
 
 ```
